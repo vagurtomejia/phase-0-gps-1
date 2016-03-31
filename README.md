@@ -8,3 +8,4 @@ git commit -m commit changes with a message
 git push pushes the changes from the local to the remote repository
 git checkout -b creates a new branch for the repository
 subl opens the file in Sublime Text.
+
